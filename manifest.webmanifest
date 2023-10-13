@@ -1,0 +1,33 @@
+{
+  "name": "Saga the Duck: Diamond Quest",
+  "short_name": "Saga the Duck: Diamond Quest",
+  "id": "app.thiago.saga",
+  "description": "\"In the Old West, the Western Duck Miner, with diamonds in his sights, faces the formidable Stone Guardians, protectors of treasures. The battle sparkles with determination as they compete for the diamonds. With eyes on the prize, the duck tirelessly collects, aiming for fame as the richest and most millionaire, breaking records and making history.\"",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "qua6.png",
+        "sizes": "36x36"
+      },{
+        "src": "qua6.png",
+        "sizes": "48x48"
+      },{
+        "src": "qua6.png",
+        "sizes": "72x72"
+      },{
+        "src": "qua6.png",
+        "sizes": "96x96"
+      },{
+        "src": "qua6.png",
+        "sizes": "144x144"
+      },{
+        "src": "qua6.png",
+        "sizes": "192x192"
+      },{
+        "src": "patulus2.jpg",
+        "sizes": "512x512"
+      }]
+}
