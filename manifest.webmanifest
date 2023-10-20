@@ -1,7 +1,7 @@
 {
   "name": "Saga the Duck: Diamond Quest",
   "short_name": "Saga the Duck: Diamond Quest",
-  "id": "app.thiago.saga",
+  "id": "https://sagaduck.vercel.app/",
   "description": "\"In the Old West, the Western Duck Miner, with diamonds in his sights, faces the formidable Stone Guardians, protectors of treasures. The battle sparkles with determination as they compete for the diamonds. With eyes on the prize, the duck tirelessly collects, aiming for fame as the richest and most millionaire, breaking records and making history.\"",
   "orientation": "landscape",
   "start_url": "./index.html",
